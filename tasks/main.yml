@@ -1,0 +1,4 @@
+---
+- import_tasks: idm_dns_record.yml
+  tags:
+    - idm_dns_record
